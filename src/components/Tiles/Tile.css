@@ -1,0 +1,25 @@
+.tile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.primary-tile {
+  width: 100px;
+  height: 100px;
+  background-color: #baca44;
+}
+
+.secondary-tile {
+  width: 100px;
+  height: 100px;
+  background-color: #ffffff;
+}
+
+.chess-piece {
+  background-size: 60px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100px;
+  height: 100px;
+}
